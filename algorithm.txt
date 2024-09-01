@@ -1,0 +1,25 @@
+OBJECTIVE 3
+
+TASK 1
+
+PROBLEM
+Q. Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a
+divisor of 6). If so, determine if it’s an even number or odd number as well.
+1. Ask the user to input a number (x) (divisor)
+2. Ask the user to input another number (y) (dividend)
+3. Check if y MOD x = 0
+4. if no then , Display “the number is not divisible”
+5. if yes then , do y MOD 2 , if it’s = 0 then it’s even otherwise it’s odd
+6. Display “the number is divisible and even / odd
+
+TASK 3
+
+PROBLEM
+Q. Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%).
+1. Ask the user to input number (N1)
+2. Ask the user to input another number (N2)
+
+3. Ask the user to input a operator (+ ,- ,* ,/ ,%)
+4. Perform the operation entered by the user (+ - * / % ) between N1 and N2
+5. Set Result = N1 (+,-,*,/,%) N2
+6. Display Result
